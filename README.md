@@ -234,4 +234,4 @@ This repository serves as the official landing page for Maqetta. The software is
 **Get the most recent version of Maqetta today!**
 
 ---
-**Last updated:** 2026-09-10 14:48:27 UTC
+**Last updated:** 2026-09-10 18:04:57 UTC
